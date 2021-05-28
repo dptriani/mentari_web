@@ -143,9 +143,9 @@ def add_IR_Dale (wavelength, spectra, spectra_dusty):
 
 #==========================================================================================================================
 
-FileNames = ["../mentari/files/bc2003_hr_m22_chab_ssp.ised_ASCII", "../mentari/files/bc2003_hr_m32_chab_ssp.ised_ASCII",
-            "../mentari/files/bc2003_hr_m42_chab_ssp.ised_ASCII", "../mentari/files/bc2003_hr_m52_chab_ssp.ised_ASCII", 
-            "../mentari/files/bc2003_hr_m62_chab_ssp.ised_ASCII", "../mentari/files/bc2003_hr_m72_chab_ssp.ised_ASCII"]
+FileNames = ["files/bc2003_hr_m22_chab_ssp.ised_ASCII", "/files/bc2003_hr_m32_chab_ssp.ised_ASCII",
+            "files/bc2003_hr_m42_chab_ssp.ised_ASCII", "files/bc2003_hr_m52_chab_ssp.ised_ASCII", 
+            "files/bc2003_hr_m62_chab_ssp.ised_ASCII", "files/bc2003_hr_m72_chab_ssp.ised_ASCII"]
 
 AllFiles = []
 
